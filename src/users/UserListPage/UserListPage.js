@@ -5,7 +5,7 @@ import UserListItem from './UserListItem'
 import styled from 'styled-components'
 import Page from '../../shared/Page'
 import Li from '../../shared/Li'
-import Button from '../../shared/Button';
+import Button from '../../shared/Button'
 
 const MoreUsersLi = Li.extend`
   padding-top: 40px;
